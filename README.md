@@ -139,7 +139,7 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 **Vimalanathan Thanushan**
 📧 [thanushaan69@gmail.com](mailto:thanushaan69@gmail.com)
-🔗 GitHub: https://github.com/ThanushanVimalanathan
+🔗 GitHub: https://github.com/ThanushanVimalanathan/GEN-AI-Text_Summarization
 
 ---
 
