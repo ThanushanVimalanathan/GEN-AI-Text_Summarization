@@ -1,4 +1,4 @@
-# 🧠 Text Summarization using PEGASUS (Hugging Face Transformers)
+# 🧠 Text Summarization using T5-base (Hugging Face Transformers)
 
 This project demonstrates how to build a **text summarization model** using the **PEGASUS transformer model** fine-tuned on the **SAMSum dataset**. The implementation is done using Hugging Face Transformers, Datasets, and PyTorch.
 
